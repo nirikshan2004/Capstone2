@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!-- saved from url=(0044)file:///E:/FSD/TASK/class%20Tas/project.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="./project_files/tcs.css">
+</head>
+<body>
+	<div class="a">
+		<div class="b">
+			<center><div style="height: 60px;width: 60px; background-color: skyblue; margin-top: 40px;"><img src="./project_files/you.png" style=" height: 40px;width: 30px;margin-top: 10px;"></div><p>YouTube is an American online video sharing and social media platform headquartered in San Bruno, California, United States. Accessible worldwide, it was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim.</p>____________________<br><br><br><button class="b3" style=" border-radius: 10px;">READ MORE</button></center>
+		</div>
+		<div class="c">
+			<center><div style="height: 60px;width: 60px; background-color: skyblue; margin-top: 40px;"><img src="./project_files/you.png" style=" height: 40px;width: 30px;margin-top: 10px;"></div><p> it Meta Platforms Accessible worldwide, it was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim Accessible worldwide, it was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim..</p>____________________<br><br><br><button class="b2" style=" border-radius: 10px;">READ MORE</button></center>
+		</div>
+		<div class="d ">
+			<center><div style="height: 60px;width: 60px; background-color: skyblue;margin-top: 40px;"><img src="./project_files/you.png" style=" height: 40px;width: 30px;margin-top: 10px;"></div><p>From live videos, to stories, to newsletters and more, LinkedIn is full of ways to stay up to date on the latest discussions in your industry. Accessible worldwide, it was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim.
+
+</p>____________________<br><br><br><button class="b1">READ MORE</button></center>
+		</div>
+	</div>
+
+
+</body></html>
